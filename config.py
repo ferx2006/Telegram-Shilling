@@ -1,3 +1,3 @@
-api_id = 'Your_API_id'
-api_hash = 'Your_Hash_ID'
-phone_number = 'Your_Phone_Number'
+api_id = '20132183'
+api_hash = '628cbc3392315375afbca225a913a35d'
+phone_number = '+5491130330371'

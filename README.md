@@ -15,8 +15,8 @@ Welcome to Telegram Auto Forwarder Bot! This bot automatically forwards messages
 
 1️⃣ Clone the repository
 
-git clone https://github.com/yourusername/telegram-auto-forwarder.git
-cd telegram-auto-forwarder
+git clone https://github.com/ferx2006/Telegram-Shilling.git
+cd Telegram-Shilling
 
 2️⃣ Install dependencies
 

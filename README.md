@@ -83,3 +83,4 @@ Want to make this bot even cooler? Fork it, improve it, and submit a pull reques
 Give this repo a ⭐ if you like it!
 
 💬 Questions? Issues? Open a GitHub issue or DM me on Telegram!
+@Ferx2005
